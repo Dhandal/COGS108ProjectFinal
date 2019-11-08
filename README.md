@@ -1,6 +1,21 @@
 # COGS 108 - Final Project
 
+```
+git checkout -b 'branch name'
 
+Do changes on this branch
+
+git pull origin master
+
+Fix merge conflicts if any
+
+git add .
+
+git commit -m "Commit Msg"
+
+git push --set-upstream origin 'branch name'
+
+```
 
 This is your group repo for your final project for COGS108.
 
